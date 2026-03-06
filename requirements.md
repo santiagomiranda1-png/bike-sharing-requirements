@@ -2,9 +2,13 @@
 
 ## Stakeholders
 1: administracion de la universidad.
+
 2: estudiantes de la universidad.
+
 3: equipo de mantenimiento de las bicicletas. 
+
 4: Equipo encargado de supervisar las bicicletas
+
 5: Equipo de soporte
 
 ## Requisitos funcionales
