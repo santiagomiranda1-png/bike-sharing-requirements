@@ -1,9 +1,9 @@
 # Sistema de préstamo de bicicletas
 
 ## Stakeholders
-1: administracion de la universidad 
-2: estudiantes de la universidad
-3: equipo de mantenimiento de las bicicletas 
+1: administracion de la universidad.
+2: estudiantes de la universidad.
+3: equipo de mantenimiento de las bicicletas. 
 
 ## Requisitos funcionales
 
